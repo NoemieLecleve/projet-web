@@ -1,0 +1,99 @@
+
+div h1{
+	position: absolute;
+	z-index: 3;
+	display: flex;
+	margin-left: 250px;
+	margin-top: 370px;
+	font-size: 55px;
+	color: white;
+	text-shadow: 3px 3px 2px black;
+
+}
+
+main{
+	margin-top: 50px;
+}
+
+.index{
+	margin-top: 0;
+}
+
+.compte{
+	color: #3289AA;
+	font-weight: bold;
+}
+
+.erreur{
+	list-style: none;
+	padding: 30px;
+	color: #C90909;
+}
+
+.split-50{
+	background-color: #FCFCFC;
+	padding: 25px;
+}
+
+form h3{
+	font-size: 26px;
+	color: #111111;
+}
+
+.cadre{
+	margin: 30px 60px 0;
+}
+
+.inscription{
+	color: #3289AA;
+	font-weight: bold;
+	font-size: 28px;
+	padding: 16px;
+}
+
+
+.card{
+	height: 500px;
+}
+
+
+
+/******* Footer ********/
+
+footer {
+    bottom: 0;
+}
+
+footer nav{
+	margin-top: 150px;
+	background-color: #b6c23a;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+footer nav a{
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+footer nav a:hover{
+	color: #fcfcfa;
+	text-shadow: 2px 2px 4px #000000;
+	text-decoration: none;
+	font-size: 23px;
+}
+
+footer strong {
+	font-size: 20px;
+	color: #FBF9F7;
+}
+
+footer div{
+	padding: 20px;
+	text-align: center;
+	background-color: #54514E;
+	color: white;
+}
